@@ -64,30 +64,30 @@ You may also see any lint errors in the console.
 
 - Task List: View all tasks on a central dashboard.
 
-    ![ALL Task](/Image_assets/all_task.png?raw=true "Add Task")
+    ![ALL Task](/Image_assets/all_task.jpeg?raw=true "Add Task")
 
 - Sections:
  
     - Upcoming: Shows tasks due soon.
 
-        ![Upcoming Task](/Image_assets/upcoming_task.png?raw=true "Upcoming Task")
+        ![Upcoming Task](/Image_assets/upcoming_task.jpeg?raw=true "Upcoming Task")
 
     - Overdue: Displays tasks past their due date.
-        ![Missed Task](/Image_assets/missed_task.png?raw=true "Overdue")
+        ![Missed Task](/Image_assets/due_task.jpeg?raw=true "Overdue")
 
     - Completed: Lists tasks marked as completed.
-    ![Completed](/Image_assets/complete.png?raw=true "Completed")
+    ![Completed](/Image_assets/completed_task.jpeg?raw=true "Completed")
 
 ### Task Management
 
 - Add New Tasks: Users can add tasks with fields for title, description, due date, and 
 priority level.
 
-    ![Add Task](/Image_assets/add_task.png?raw=true "Add Task")
+    ![Add Task](/Image_assets/create_task.jpeg?raw=true "Add Task")
 
 - Edit and Delete Tasks: Users can modify or remove tasks as needed.
 
-    ![Edit Task](/Image_assets/edit_task.png?raw=true "Edit Task")
+    ![Edit Task](/Image_assets/edit_task.jpeg?raw=true "Edit Task")
 
 
 ### Priority Levels
@@ -99,9 +99,4 @@ priority level.
 
 - Search: Quickly search tasks by title or description.
 
-    ![Search Task](/Image_assets/search.png?raw=true "Edit Task")
-
 - Filter by Priority and Completion: Filter tasks by priority level or completion status for organized task management.
-    ![Edit Task](/Image_assets/sorting.png?raw=true "Edit Task")
-
-    ![Priority Filter](/Image_assets/priority.png?raw=true "Priority Task")
