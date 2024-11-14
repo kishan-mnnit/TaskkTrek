@@ -12,7 +12,7 @@ This Task Manager is a simple web app that helps users organize and track tasks.
 
 ## Live Project 
 
-[Click Here](https://elite-task-six.vercel.app/)
+[Click Here](https://taskk-trek.vercel.app/)
 
 ## Installation
 
