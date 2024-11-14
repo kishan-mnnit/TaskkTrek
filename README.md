@@ -64,7 +64,7 @@ You may also see any lint errors in the console.
 
 - Task List: View all tasks on a central dashboard.
 
-    ![ALL Task](/Image_assets/all_task.jpeg?raw=true "Add Task")
+    ![ALL Task](/Image_assets/all_task.jpeg "Add Task")
 
 - Sections:
  
