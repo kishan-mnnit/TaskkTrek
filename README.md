@@ -64,30 +64,30 @@ You may also see any lint errors in the console.
 
 - Task List: View all tasks on a central dashboard.
 
-    ![ALL Task](/Image_assets/all_task.jpeg "Add Task")
+    ![ALL Task](/image_assets/all_task.jpeg?raw=true "Add Task")
 
 - Sections:
  
     - Upcoming: Shows tasks due soon.
 
-        ![Upcoming Task](/Image_assets/upcoming_task.jpeg?raw=true "Upcoming Task")
+        ![Upcoming Task](./image_assets/upcoming_task.jpeg?raw=true "Upcoming Task")
 
     - Overdue: Displays tasks past their due date.
-        ![Missed Task](/Image_assets/due_task.jpeg?raw=true "Overdue")
+        ![Missed Task](/image_assets/due_task.jpeg?raw=true "Overdue")
 
     - Completed: Lists tasks marked as completed.
-    ![Completed](/Image_assets/completed_task.jpeg?raw=true "Completed")
+    ![Completed](/image_assets/completed_task.jpeg?raw=true "Completed")
 
 ### Task Management
 
 - Add New Tasks: Users can add tasks with fields for title, description, due date, and 
 priority level.
 
-    ![Add Task](/Image_assets/create_task.jpeg?raw=true "Add Task")
+    ![Add Task](/image_assets/create_task.jpeg?raw=true "Add Task")
 
 - Edit and Delete Tasks: Users can modify or remove tasks as needed.
 
-    ![Edit Task](/Image_assets/edit_task.jpeg?raw=true "Edit Task")
+    ![Edit Task](/image_assets/edit_task.jpeg?raw=true "Edit Task")
 
 
 ### Priority Levels
